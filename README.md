@@ -18,12 +18,18 @@ resistance readings. Also shows any errors with interfacing devices, amongst oth
 
 <p float="centre">
   <img src="/screenshots/config_panel_comms.PNG" width="333"/>
-  <img src="/screenshots/config_panel_comms.PNG" width="333"/>
-  <img src="/screenshots/config_panel_comms.PNG" width="333"/>
-  <img src="/screenshots/config_panel_comms.PNG" width="333"/>
+  <img src="/screenshots/config_panel_measurements.PNG" width="333"/>
+  <img src="/screenshots/config_panel_swithcboard.PNG" width="333"/>
+  <img src="/screenshots/config_panel_datasave.PNG" width="333"/>
 </p>
-<p align="center"><i>Figure 1.  Front panel of VI. <strong>Section A</strong>:  Live temperature and sample
-resistance readings. Also shows any errors with interfacing devices, amongst other features. <strong>Section B</strong>: Measurement and data file setup panels. <strong>Section C</strong>: Live signal plotting of resistance vs temperature and resistance vs magnetic field. <strong>Section D</strong>: Time traces of sample resistance, sample space temperature and magnetic field from external poles.</i></p>
+<p align="center"><i>Figure 1.  Individual screenshots of each panel within <strong>Section B</strong> of Figure 1.</i></p>
+
+## Photo of cryostat
+
+<p float="centre">
+  <img src="/screenshots/Fridge - entire setup - annotated.jpg"/>
+</p>
+
 
 
 
