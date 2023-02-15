@@ -25,10 +25,9 @@ resistance readings. Also shows any errors with interfacing devices, amongst oth
 <p align="center"><i>Figure 1.  Individual screenshots of each panel within <strong>Section B</strong> of Figure 1.</i></p>
 
 ## Photo of cryostat
+ 
+<img src="/screenshots/Fridge_entire setup_annotated_2.jpg"/>
 
-<p float="centre">
-  <img src="/screenshots/Fridge - entire setup - annotated.jpg"/>
-</p>
 
 
 
