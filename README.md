@@ -17,7 +17,10 @@ Labview VI written to control temperature and sample measuring systems of closed
 resistance readings. Also shows any errors with interfacing devices, amongst other features. <strong>Section B</strong>: Measurement and data file setup panels. <strong>Section C</strong>: Live signal plotting of resistance vs temperature and resistance vs magnetic field. <strong>Section D</strong>: Time traces of sample resistance, sample space temperature and magnetic field from external poles.</i></p>
 
 <p float="centre">
-  <img src="/screenshots/LABVIEW_screenshot_ANNOTATED.png"/>
+  <img src="/screenshots/config_panel_comms.PNG" width="333"/>
+  <img src="/screenshots/config_panel_comms.PNG" width="333"/>
+  <img src="/screenshots/config_panel_comms.PNG" width="333"/>
+  <img src="/screenshots/config_panel_comms.PNG" width="333"/>
 </p>
 <p align="center"><i>Figure 1.  Front panel of VI. <strong>Section A</strong>:  Live temperature and sample
 resistance readings. Also shows any errors with interfacing devices, amongst other features. <strong>Section B</strong>: Measurement and data file setup panels. <strong>Section C</strong>: Live signal plotting of resistance vs temperature and resistance vs magnetic field. <strong>Section D</strong>: Time traces of sample resistance, sample space temperature and magnetic field from external poles.</i></p>
