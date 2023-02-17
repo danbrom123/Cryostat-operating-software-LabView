@@ -2,6 +2,8 @@
 
 Labview VI written to control temperature and sample measuring systems of closed cycle refridgerator (CCR) cryostat in University of Liverpool's mmmlab.
 
+Main VI file = '/Labview_VI/Fridge Software v2.1.vi'
+
 ## Devices VI interfaces with
 - <strong>Lakeshore 372 AC Resistance bridge</strong> - Performs electric measurements on samples and controls temperature via heater wire and PID
 - <strong>3706A-S Keithley System Switch</strong> - Allows automated permuation of the 24 electrical measurement contacts available
